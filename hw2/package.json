@@ -1,5 +1,20 @@
 {
   "dependencies": {
     "express": "^4.21.2"
+  },
+  "name": "hw2",
+  "version": "1.0.0",
+  "main": "01-coins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon 02-node-routing.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^11.7.5",
+    "nodemon": "^3.1.11"
   }
 }
